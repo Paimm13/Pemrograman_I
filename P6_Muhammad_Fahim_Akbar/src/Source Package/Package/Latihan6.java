@@ -4,9 +4,9 @@ public class Latihan6 {
         int nim = 24;
 
         if (nim == 30){
-            System.out.print("Selamat Anda Lulus dengan Nilai Sempurna");
+            System.out.print("Selamat Anda Lulus dengan Nilai Sempurna ");
         } else {
-            System.out.print("Anda lulus dengan nilai standar");
+            System.out.print("Anda lulus dengan nilai standar ");
         }
     }
 }

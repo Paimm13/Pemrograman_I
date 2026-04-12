@@ -9,14 +9,14 @@ public class Latihan5 {
 
         while (daftarMenu) {
             System.out.println("Selamat Datang di Cafe Taria\n");
-            System.out.println("Silahkan Pilih Daftar Menu\n1. Makanan\n2. Minuman\n0. Keluar");
+            System.out.println("Silahkan Pilih Daftar Menu\n1. Makanan\n2. Minuman\n0. Keluar ");
             System.out.print("Masukan Pilihan : ");
             pilihanPesanan = input.nextInt();
 
             if (pilihanPesanan == 1) {
                 System.out.println("\nDaftar Menu Makanan");
                 System.out.println("1. Nasi Goreng\n2. Mie Goreng\n3. Kentang Goreng");
-                System.out.println("Ketik '0' jika ingin melihat daftar minuman");
+                System.out.println("Ketik '0' jika ingin melihat daftar minuman ");
                 int kembaliMakanan;
                 kembaliMakanan = input.nextInt();
                 if(kembaliMakanan == 0) continue;
