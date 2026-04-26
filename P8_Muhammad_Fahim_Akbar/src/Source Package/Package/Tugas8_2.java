@@ -19,6 +19,6 @@ public class Tugas8_2 {
             input.nextLine();
         } while(tambahNilai == 'y' || tambahNilai == 'Y');
 
-        System.out.print("\nNama : " + nama + "\nTotal nilai : "+total);
+        System.out.print("\nNama : " +nama+ "\nTotal nilai : "+total);
     }
 }

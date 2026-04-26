@@ -12,7 +12,7 @@ public class Latihan8_2 {
             System.out.print("Nim : ");
             String nim = input.nextLine();
 
-            System.out.println("Data : "+ nama + " - " + nim);
+            System.out.println("Data : "+ nama + "  -  " + nim);
 
             System.out.print("Ulangi? (y/n) : ");
             ulang = input.next().charAt(0);

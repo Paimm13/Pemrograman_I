@@ -22,6 +22,6 @@ public class Tugas8_3 {
         } while(tambahNilai == 'y' || tambahNilai == 'Y');
 
         float rataRata = total/count;
-        System.out.print("\nNama : " + nama + "\nTotal rata rata nilai : "+rataRata);
+        System.out.print("\nNama : " +nama+ "\nTotal rata rata nilai : "+rataRata);
     }
 }

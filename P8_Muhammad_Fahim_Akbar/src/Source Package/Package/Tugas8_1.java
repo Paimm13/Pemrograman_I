@@ -12,7 +12,7 @@ public class Tugas8_1 {
             System.out.print("Masukan nilai : ");
             int nilai = input.nextInt();
 
-            System.out.println("Nilai Mahasiswa "+nama+" yaitu "+nilai);
+            System.out.println("Nilai Mahasiswa "+ nama +" yaitu "+nilai);
 
             System.out.print("Ulang input? (y/n) : ");
             ulangi = input.next().charAt(0);
